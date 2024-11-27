@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Manager, Configuration: Debug Any CPU ------
+1>  Manager -> C:\Users\sd\Desktop\J0323123\Salma Ayman J0323123\Manager\bin\Debug\Manager.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
